@@ -1,24 +1,39 @@
+# 📱 ASKEN PHONE
+
+![Banner](https://images.unsplash.com/photo-1511707171634-5f897ff02aa9)
+
+✨ **ASKEN PHONE** adalah platform sederhana untuk menampilkan dan menjual smartphone dengan tampilan modern, responsif, dan mudah digunakan.
 
 ---
 
-## 🌐 Demo Website
-Website dapat diakses melalui GitHub Pages:  
-https://username.github.io/asken-phone
-
-> Ganti `username` dengan username GitHub kamu
-
----
-
-## 📞 Kontak
-Jika ingin bekerja sama atau bertanya:
-- WhatsApp: 081234567890
+## 🚀 Fitur Utama
+- 🏠 Homepage modern
+- 📱 Katalog produk smartphone
+- 🔍 Pencarian produk
+- 🛒 Simulasi keranjang belanja
+- 💬 Kontak WhatsApp langsung
+- 🌙 Dark mode (opsional pengembangan)
+- 📊 Tampilan responsif (HP & Desktop)
 
 ---
 
-## 📌 Tentang
-ASKEN PHONE menyediakan berbagai smartphone berkualitas dengan harga terjangkau dan pelayanan terpercaya.
+## 🧭 Menu Website
+- **Home** → Halaman utama
+- **Tentang** → Informasi tentang ASKEN PHONE
+- **Produk** → Daftar smartphone
+- **Kategori** → Android / iPhone / Gaming
+- **Promo** → Diskon & penawaran khusus
+- **Testimoni** → Review pelanggan
+- **Kontak** → Hubungi kami
+- **FAQ** → Pertanyaan umum
 
 ---
 
-## ⭐ Dukungan
-Jika kamu suka project ini, jangan lupa kasih ⭐ di repository ya!
+## 🛠️ Teknologi
+- HTML5
+- CSS3
+- (Opsional) JavaScript
+
+---
+
+## 📂 Struktur Project
